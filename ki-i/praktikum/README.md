@@ -1,1 +1,0 @@
-# Intelligenz I - Praktikum
