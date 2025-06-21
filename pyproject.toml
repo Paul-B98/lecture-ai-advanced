@@ -34,11 +34,11 @@ dependencies = [
 ]
 
 [project.urls]
-homepage = "https://github.com/Paul-B98/wpf-ki"
-repository = "https://github.com/Paul-B98/wpf-ki"
-changelog = "https://github.com/Paul-B98/wpf-ki/releases"
-issues = "https://github.com/Paul-B98/wpf-ki/issues"
-documentation = "https://github.com/Paul-B98/wpf-ki/wiki"
+homepage = "https://github.com/Paul-B98/lecture-ai-advanced"
+repository = "https://github.com/Paul-B98/lecture-ai-advanced"
+changelog = "https://github.com/Paul-B98/lecture-ai-advanced/releases"
+issues = "https://github.com/Paul-B98/lecture-ai-advanced/issues"
+documentation = "https://github.com/Paul-B98/lecture-ai-advanced/wiki"
 
 [build-system]
 requires = ["hatchling"]
