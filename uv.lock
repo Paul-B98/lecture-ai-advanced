@@ -12,7 +12,7 @@ wheels = [
 ]
 
 [[package]]
-name = "ai-lecture"
+name = "ai-advanced"
 version = "1.0.0"
 source = { editable = "." }
 dependencies = [
