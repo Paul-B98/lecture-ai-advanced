@@ -32,7 +32,7 @@ dependencies = [
     "seqeval>=1.2.2",
     "smolagents[openai]>=1.24.0",
     "tensorboard>=2.19.0",
-    "torch>=2.7.1",
+    "torch>=2.11.0",
     "torchvision>=0.26.0",
     "transformers[torch]>=4.52.4",
 ]
