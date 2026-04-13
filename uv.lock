@@ -84,7 +84,7 @@ requires-dist = [
     { name = "scikit-learn", specifier = ">=1.7.0" },
     { name = "seaborn", specifier = ">=0.13.2" },
     { name = "seqeval", specifier = ">=1.2.2" },
-    { name = "smolagents", extras = ["openai"], specifier = ">=1.23.0" },
+    { name = "smolagents", extras = ["openai"], specifier = ">=1.24.0" },
     { name = "tensorboard", specifier = ">=2.19.0" },
     { name = "torch", specifier = ">=2.7.1" },
     { name = "torchvision", specifier = ">=0.22.1" },
@@ -3358,7 +3358,7 @@ wheels = [
 
 [[package]]
 name = "smolagents"
-version = "1.23.0"
+version = "1.24.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "huggingface-hub" },
@@ -3368,9 +3368,9 @@ dependencies = [
     { name = "requests" },
     { name = "rich" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/e3/73/7283781e61b71ca20d263b9ab96fed60cb474d5bfa612a705c5fd0277496/smolagents-1.23.0.tar.gz", hash = "sha256:a8ead28a85a02a9f1bcf25016db6bdc3ba2cb456912e336fa7fabd9acf4203bc", size = 215259, upload-time = "2025-11-17T14:20:27.876Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/0a/1c/8d8e7f39f3586dc85a7f96681b08b7c1cfbd734b258a025f368632f2d666/smolagents-1.24.0.tar.gz", hash = "sha256:4d5028ffbd72aca85fb2e8daac52d03fb7d4290a9bf99dbc311dd65980f6b5de", size = 225246, upload-time = "2026-01-16T05:37:04.156Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/82/ed/35eb943115bb8a1b97ebcf12a3013306e37a4ac5fa5f5c2016ed5ea1264e/smolagents-1.23.0-py3-none-any.whl", hash = "sha256:4851cb6a27e5adc1b916b61991d1d2a7cedf4947677d0ae92b3a9cc6d29c5528", size = 148412, upload-time = "2025-11-17T14:20:26.231Z" },
+    { url = "https://files.pythonhosted.org/packages/76/7a/461ead649c088d30f7847ef1c70f245a9c188381ed09a264633831050497/smolagents-1.24.0-py3-none-any.whl", hash = "sha256:54853759d07a92a939f1ff59238b757fb1a153204c90b69324c8e9709025aa86", size = 155727, upload-time = "2026-01-16T05:37:02.903Z" },
 ]
 
 [package.optional-dependencies]
