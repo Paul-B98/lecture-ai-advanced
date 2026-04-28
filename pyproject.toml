@@ -19,7 +19,7 @@ classifiers = [
 requires-python = ">=3.12"
 dependencies = [
     "bertviz>=1.4.1",
-    "datasets>=3.6.0",
+    "datasets>=4.8.5",
     "evaluate>=0.4.4",
     "jupyterlab>=4.5.6",
     "lightning>=2.6.0",
