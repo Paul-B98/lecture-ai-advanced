@@ -33,7 +33,7 @@ dependencies = [
     "smolagents[openai]>=1.24.0",
     "tensorboard>=2.19.0",
     "torch>=2.11.0",
-    "torchvision>=0.26.0",
+    "torchvision>=0.27.0",
     "transformers[torch]>=4.52.4",
 ]
 
