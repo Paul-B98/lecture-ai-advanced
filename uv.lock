@@ -91,7 +91,7 @@ requires-dist = [
     { name = "scikit-learn", specifier = ">=1.7.0" },
     { name = "seaborn", specifier = ">=0.13.2" },
     { name = "seqeval", specifier = ">=1.2.2" },
-    { name = "smolagents", extras = ["openai"], specifier = ">=1.24.0" },
+    { name = "smolagents", extras = ["openai"], specifier = ">=1.25.0" },
     { name = "tensorboard", specifier = ">=2.19.0" },
     { name = "torch", specifier = ">=2.12.0" },
     { name = "torchvision", specifier = ">=0.26.0" },
