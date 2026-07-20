@@ -34,7 +34,7 @@ dependencies = [
     "tensorboard>=2.21.0",
     "torch>=2.13.0",
     "torchvision>=0.26.0",
-    "transformers[torch]>=5.13.0",
+    "transformers[torch]>=5.13.1",
 ]
 
 [project.urls]
