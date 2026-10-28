@@ -2,3 +2,4 @@
 npm install -g @anthropic-ai/claude-code
 
 uv sync --all-groups
+uv run pre-commit install

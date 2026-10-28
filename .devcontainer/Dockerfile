@@ -3,6 +3,3 @@ FROM python:3.14.10-trixie
 COPY --from=uv /uv /uvx /bin/
 
 ENV PYTHONUNBUFFERED 1
-
-# Install Python Deps
-RUN pip install --upgrade pip uv
